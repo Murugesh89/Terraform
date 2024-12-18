@@ -1,0 +1,1 @@
+aws s3 ls s3://terra-form-statefile-store --profile terraform-admin
